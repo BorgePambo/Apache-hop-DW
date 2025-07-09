@@ -5,20 +5,11 @@ Este repositório contém o projeto de Venda de uma Loja Fictício, que integra 
 O projeto utiliza Apache Hop para realizar ETL, juntamente com PostgreSQL para armazenamento estruturado dos dados.
 
 ![Arquitetura](https://github.com/BorgePambo/Apache-hop-DW/raw/main/arquitetura__.png)
-.
 
 
+-----------------------------------------------------------------------------------------------------------
 
-
-
-
-
-
-
-
-
-
-Ferramentas Usadas:
+    Ferramentas Usadas:
     Apache Hop:
         1° Orquestração de pipelines ETL.
         2° Automação de transformações e fluxos de dados.
