@@ -6,12 +6,17 @@ O projeto utiliza Apache Hop para realizar ETL, juntamente com PostgreSQL para a
 
 ![Arquitetura](https://github.com/BorgePambo/Apache-hop-DW/raw/main/arquitetura__.png)
 
+
+
+
 Ferramentas Usadas:
     Apache Hop:
         1° Orquestração de pipelines ETL.
         2° Automação de transformações e fluxos de dados.
+        
     PostgreSQL:
         1° Armazenamento e modelagem dos dados de vendas.
         2° Criação de tabelas dimensionais e de fatos.
+        
     Power BI:
         Criação de dashboards e relatórios interativos de vendas.
